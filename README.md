@@ -17,8 +17,7 @@ tkcalendar — widget de data
 SQLite3 — banco de dados local
 
 📁 Estrutura do Projeto
-Projeto CRUD/
-│
+
 ├── main.py        # Interface gráfica (Tkinter)
 ├── view.py        # Funções do banco de dados (CRUD)
 ├── banco.py       # Criação da tabela no SQLite
